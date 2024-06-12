@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|d:\\c#_projects\\netmvc\\librarymanagement\\librarymanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|d:\\c#_projects\\netmvc\\librarymanagement\\librarymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|d:\\c#_projects\\netmvc\\librarymanagement\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|d:\\c#_projects\\netmvc\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|d:\\c#_projects\\netmvc\\librarymanagement\\librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|d:\\c#_projects\\netmvc\\librarymanagement\\librarymanagement\\controllers\\borrowrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\borrowrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|d:\\c#_projects\\netmvc\\librarymanagement\\librarymanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|d:\\c#_projects\\netmvc\\librarymanagement\\librarymanagement\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|d:\\c#_projects\\netmvc\\librarymanagement\\librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7A0D21-EF89-407F-8CB2-00BCF3B02211}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwDQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:32:07.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:31:37.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:28:54.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\appsettings.json",
+              "ToolTip": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeToolTip": "LibraryManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T17:27:44.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\User.cs",
+              "ToolTip": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Models\\User.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:26:10.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BorrowRecordsController.cs",
+              "DocumentMoniker": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Controllers\\BorrowRecordsController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BorrowRecordsController.cs",
+              "ToolTip": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Controllers\\BorrowRecordsController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BorrowRecordsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:32:32.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:27:05.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Models\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\BorrowRecord.cs",
+              "ToolTip": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Models\\BorrowRecord.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\BorrowRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:26:31.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Book.cs",
+              "ToolTip": "D:\\c#_Projects\\NetMVC\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:25:41.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
